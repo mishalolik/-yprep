@@ -6,24 +6,19 @@ header {
 
 .header_row {
     display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 105px;
 }
 
 .header_row ul {
     display: flex;
+    gap: 67px;
 }
 
-.ho {
-    margin-bottom: 220px;
-    margin-left: 130px;
-}
-.ha {
-    margin-bottom: 240px;
-    margin-left: 130px;
-}
 
 #li {
-    margin-top: 117px;
-    margin-left: 147px;
+
     font-weight: 700;
     font-family: Montserrat;
     font-size: 25px;
@@ -35,10 +30,8 @@ header {
 }
 
 .kl {
-    width: 151.5px;
-    height: 37.47px;
-    margin-top: 117px;
-    margin-left: 147px;
+
+
     gap: 0px;
     opacity: 0px;
     font-family: Montserrat;
@@ -54,8 +47,7 @@ header {
 .kop {
     width: 572px;
     height: 63px;
-    margin-top: 447px;
-    margin-right: 830px;
+
     gap: 0px;
     opacity: 0px;
     font-family: Montserrat;
