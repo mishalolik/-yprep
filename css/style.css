@@ -163,6 +163,7 @@ main h3 {
     line-height: 24.38px;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
+    padding-top: 45px;
     
 
 
@@ -170,10 +171,9 @@ main h3 {
 .lol {
     text-align: center;
 }
-.lp {
-    text-align: center;
-}
-.lpk {
-    text-align: center;
-    padding-bottom: 5px;
+
+.ghj {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
 }
