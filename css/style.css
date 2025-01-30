@@ -188,6 +188,10 @@ main h3 {
         flex-direction: column;
     }
 
+    .header_main_burger_img {
+        transform: scale(0.7);
+    }
+
 }
 
 
