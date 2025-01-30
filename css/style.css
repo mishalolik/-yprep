@@ -1,4 +1,4 @@
-header {
+.ups {
     height: 900px;
     background: linear-gradient(180deg, #EDA418 47.4%, rgba(237, 164, 24, 0) 100%);
 
@@ -60,4 +60,125 @@ header {
     color: #000000;
 
 
+}
+
+.a {
+    font-family: Montserrat;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 39.01px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.header_main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.asd {
+    gap: 29px;
+    display: flex;
+    flex-direction: column;
+}
+
+.ght {
+    width: 142.26px;
+    height: 60px;
+
+}
+
+main h3 {
+    font-size: 35px;
+    font-family: Montserrat;
+    font-size: 35px;
+    font-weight: 500;
+    line-height: 42.67px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.ba,
+.ab {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ab {
+    padding-top: 46px;
+}
+
+.podval {
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0) 0%, #EDA61D 100%);
+    width: 1890px;
+    height: 450px;
+
+
+
+
+}
+
+#one {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.two {
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.three {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    height: 100%;
+    gap: 101px;
+    padding-left: 23%;
+    padding-top: 157px;
+
+
+}
+
+.bout {
+    
+    
+    gap: 0px;
+    opacity: 0px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.38px;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    
+
+
+}
+.lol {
+    text-align: center;
+}
+.lp {
+    text-align: center;
+}
+.lpk {
+    text-align: center;
+    padding-bottom: 5px;
 }
