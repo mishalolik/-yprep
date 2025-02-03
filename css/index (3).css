@@ -152,8 +152,8 @@ main h3 {
 }
 
 .bout {
-    
-    
+
+
     gap: 0px;
     opacity: 0px;
     font-family: Montserrat;
@@ -163,10 +163,11 @@ main h3 {
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
     padding-top: 45px;
-    
+
 
 
 }
+
 .lol {
     text-align: center;
 }
@@ -182,19 +183,38 @@ main h3 {
 
     .header_row {
         flex-direction: column;
+        gap: 5px;
+        padding-left: 0;
     }
 
-    .header_main{
+    .header_main {
         flex-direction: column;
     }
 
     .header_main_burger_img {
         transform: scale(0.7);
+        -ms-transform: scale(0.7);
+        -webkit-transform: scale(0.7);
+    }
+    .ab, .ba {
+        
+        flex-direction: column;
+    }
+    .three {
+        font-size: 5px;
+        gap: 10px;
+        padding-left: 0px;
+    }
+
+    .ho {
+        padding-top: 0px;
     }
 
 }
+@media(max-width: 1000px) {
 
-
-
-
-
+    .f, .g, .h {
+        
+        flex-direction: column;
+    }
+}
