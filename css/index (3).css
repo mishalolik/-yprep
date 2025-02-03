@@ -105,12 +105,17 @@ main h3 {
 .ba,
 .ab {
     display: flex;
-    justify-content: space-around;
+    flex-direction: column;
 }
 
-.ab {
+.f, .h {
+        
+    display: flex;
     padding-top: 46px;
+    justify-content: center;
+    gap: 30px;
 }
+
 
 .podval {
     background: linear-gradient(180deg, rgba(217, 217, 217, 0) 0%, #EDA61D 100%);
@@ -213,7 +218,11 @@ main h3 {
 }
 @media(max-width: 1000px) {
 
-    .f, .g, .h {
+    .ba {
+        flex-direction: row;
+    }
+
+    .f, .h {
         
         flex-direction: column;
     }
